@@ -95,7 +95,7 @@ class GestorBDD:
             cursor.commit()
 
             print("Inserción realizada con éxito!")
-            cursor.close()
+            
         except Exception as e:
             print("Hubo un error durante el proceso \n", e)
 
