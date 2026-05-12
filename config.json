@@ -1,0 +1,15 @@
+{
+    "sql_server": {
+      "user": "pythonconsultor",
+      "password": "UDLA",
+      "name_server": "aiueolbaP",
+      "database": "UDEMYTEST1"
+    },
+      "voidsound": {
+        "user": "VoidAdminLogin",
+        "password": "VoidAdmin2026",
+        "name_server": "aiueolbaP",
+        "database": "VoidSound"
+
+    }
+}
